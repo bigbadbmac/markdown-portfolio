@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I passed my _**CCNA**_ in _December 2020_. I'm half way through studying for my _**Linux+**_. I am also learning:
+* _Bash_
+* _Github_
+* _Git_
+* _Markdown_
