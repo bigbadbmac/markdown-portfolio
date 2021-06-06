@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of NEO](https://vignette2.wikia.nocookie.net/deathbattlefanon/images/f/fb/Neo_render.png/revision/latest?cb=20150604135316)
